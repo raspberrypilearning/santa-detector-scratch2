@@ -1,0 +1,4 @@
+- name: 1 x passive infra-red sensor
+  img: pir
+- name: 3 x Female-to-female jumper leads
+  img: jumper-female-to-female
