@@ -1,58 +1,17 @@
 ## Introduction
 
-Add project description here. What will learners be making?
-
 ### What you will make
+No more propping your eyes open with matchsticks to try and catch Santa! This Scratch program uses a low-cost infrared sensor to set off an alarm when Santa sneaks into your room. This resource a great introduction to using simple sensors with the Raspberry Pi, and it can be adapted for lots of other projects.
 
---- no-print ---
-Add instructions for using the embedded content here.
+<video width="640" height="360" controls>
+<source src="images/demo.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+### What you will learn
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
+- [Use basic digital, analogue, and electromechanical components](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
